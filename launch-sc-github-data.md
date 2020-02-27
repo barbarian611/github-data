@@ -24,7 +24,7 @@ The `data` variable in `github-data.js` will contain the array defined in the `d
 
 Write code in `github-data.js` using the `data` array to answer the following questions.
 
-You should NOT NOT NOT change the code given, only complete the function bodies.
+You should NOT change the code given, only complete the function bodies.
 
 1. How many repositories does LaunchAcademy own? 
 2. Which repository has the largest size? 
