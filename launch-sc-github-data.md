@@ -28,7 +28,7 @@ You should NOT change the code given, only complete the function bodies.
 
 1. How many repositories does LaunchAcademy own? 
 2. Which repository has the largest size? 
-3. What is the most recently created repository? 
+3. What is the most recently created repository?  
 4. How many repos have `0` stargazers? 
 5. Which repo has the largest number of stargazers? 
 6. Return the names of the repos that have a description that is not null. 
