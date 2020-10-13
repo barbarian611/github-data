@@ -14,7 +14,7 @@ We have provided the data needed in the `data.js` file. While this is a lot of d
 Notice how the data is "imported" at the top of the `github-data.js` file:
 
 ```javascript
-let data = require('./data');
+let data = require('./data'); 
 ```
 
 The `data` variable in `github-data.js` will contain the array defined in the `data.js` file.
