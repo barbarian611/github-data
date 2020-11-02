@@ -1,5 +1,5 @@
 You'll work to answer questions about repositories from [LaunchAcademy's GitHub account](https://api.github.com/orgs/LaunchAcademy/repos).
-  
+   
 ## Getting Started
   
 ```no-highlight 
