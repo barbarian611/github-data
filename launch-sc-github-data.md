@@ -6,7 +6,7 @@ You'll work to answer questions about repositories from [LaunchAcademy's GitHub 
 et get launch-sc-github-data    
 cd launch-sc-github-data   
 ```   
-   
+    
 ### Instructions 
  
 We have provided the data needed in the `data.js` file. While this is a lot of data, it's no different than what you've worked with in prior assignments. `data` is an array of objects, and each object contains a number of `key:value` pairs.
