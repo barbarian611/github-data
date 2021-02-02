@@ -2,7 +2,7 @@ You'll work to answer questions about repositories from [LaunchAcademy's GitHub 
    
 ## Getting Started 
        
-```no-highlight   
+```no-highlight    
 et get launch-sc-github-data    
 cd launch-sc-github-data    
 ```    
